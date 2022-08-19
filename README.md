@@ -1,7 +1,7 @@
 
 
-
-
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="">
 <h1 align="center">Hi 👋, I'm Ananya Tripathi</h1>
 
 <h3 align="center">A passionate web developer</h3>
