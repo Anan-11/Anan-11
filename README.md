@@ -18,7 +18,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-tripathi-664b3a186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-tripathi-664b3a186/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananya-tripathi-664b3a186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-tripathi-664b3a186/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/_201500087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_201500087" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ananyatripathi_cs20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ananyatripathi_cs20/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ananyatripathics20/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ananyatripathics20/practice/" height="30" width="40" /></a>
