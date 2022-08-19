@@ -7,9 +7,9 @@
 <h3 align="center">A passionate web developer</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **ananya.tripathi_cs20@gla.ac.in**
 
