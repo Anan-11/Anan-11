@@ -1,9 +1,11 @@
 
 
+
+
 <h1 align="center">Hi 👋, I'm Ananya Tripathi</h1>
 
 <h3 align="center">A passionate web developer</h3>
-<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477o7r9s1px5z163z9513qlai4lr226y4d3fcexlr0&rid=giphy.gif&ct=g">
+
 
 - 🌱 I’m currently learning **React**
 
@@ -14,6 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-tripathi-664b3a186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-tripathi-664b3a186/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/_201500087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_201500087" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ananyatripathi_cs20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ananyatripathi_cs20/" height="30" width="40" /></a>
